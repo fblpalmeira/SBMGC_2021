@@ -21,11 +21,17 @@ MATERIAIS:
 
 - [Tutorial do RStudio Cloud `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/2_Tutorial_RStudioCloud_Pronta_Cientista_2021.pdf)
 
-- [Aula teórica  `.csv`]()
+- [Aula teórica  `.pdf`]()
+
+EXERCÍCIO:
+
+- [Código `.Rmd`]()
+
+- [Planilha `.csv`]()
 
 ## Instalação
 
-Instale o pacote ['foodweb'] do `R`:
+Instale o pacote 'foodweb' do `R`:
 
 ``` r
 # install.packages("foodweb")
