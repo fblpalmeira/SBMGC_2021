@@ -17,7 +17,7 @@ PÚBLICO-ALVO: Estudantes de graduação, pós-graduação e profissionais inter
 
 MATERIAIS:
 
-- [Ementa do curso `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/1_Ementa_SBMGC_2021.pdf)
+- [Ementa do curso `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/1_Ementa_Workshop_R_SBMGC_2021.pdf)
 
 - [Tutorial do RStudio Cloud `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/2_Tutorial_RStudioCloud_Pronta_Cientista_2021.pdf)
 
