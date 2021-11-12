@@ -27,7 +27,7 @@ EXERCÍCIO: O objetivo da nossa aula prática é construir esse gráfico 3D que 
 
 - [Código `.Rmd`]()
 
-- [Planilha `.csv`]()
+- [Planilha `.csv`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.csv)
 
 <img src="jaguar_foodweb.gif">
 
