@@ -29,6 +29,10 @@ EXERCÍCIO:
 
 - [Planilha `.csv`]()
 
+O objetivo da nossa aula prática é construir esse gráfico 3D que representa a rede de interações ecológica da onça-pintada (Panthera onca) com dados da literatuta compilados por [Palmeira 2015](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf).
+
+<img src="jaguar_foodweb.gif">
+
 ## Instalação
 
 Instale o pacote 'foodweb' do `R`:
@@ -37,8 +41,6 @@ Instale o pacote 'foodweb' do `R`:
 # install.packages("foodweb")
 library(foodweb)
 ```
-
-<img src="jaguar_foodweb.gif">
 
 REFERÊNCIAS:
 
