@@ -1,4 +1,5 @@
 # [Semana da Biologia Marinha e do Gerenciamento Costeiro - 2021, UNESP - IB CLP, São Vicente, SP](https://www.even3.com.br/xviisbmgc)
+<img src="unesp_logos.png" align="right" width = "250px"/>
 
 ## Workshop "Fundamentos básicos do R: aplicação na biologia"
 
@@ -16,8 +17,18 @@ PÚBLICO-ALVO: Estudantes de graduação, pós-graduação e profissionais inter
 
 MATERIAIS:
 
-[Ementa do curso](https://github.com/fblpalmeira/SBMGC_2021/blob/main/1_Ementa_SBMGC_2021.pdf)
+- [Ementa do curso `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/1_Ementa_SBMGC_2021.pdf)
 
-[Tutorial do RStudio Cloud](https://github.com/fblpalmeira/SBMGC_2021/blob/main/2_Tutorial_RStudioCloud_Pronta_Cientista_2021.pdf)
+- [Tutorial do RStudio Cloud `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/2_Tutorial_RStudioCloud_Pronta_Cientista_2021.pdf)
 
-[Aula teórica]()
+- [Aula teórica  `.csv`]()
+
+## Instalação
+
+Instale o pacote ['foodweb'] do `R`:
+
+``` r
+# install.packages("foodweb")
+library(foodweb)
+```
+
