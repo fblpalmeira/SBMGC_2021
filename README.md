@@ -5,7 +5,7 @@
 
 ### Francesca B. L. Palmeira, Maísa Ziviani Alves e Janne Lis H. de Santis
 
-EMENTA: O objetivo deste curso é oferecer um treinamento teórico-prático no uso da linguagem de programação R com aplicação na biologia marinha, no gerenciamento costeiro e na conservação da biodiversidade.
+EMENTA: O objetivo deste curso é oferecer um treinamento teórico-prático no uso da linguagem de programação R com aplicação na biologia e na conservação da biodiversidade.
 
 No primeiro dia do curso, teremos uma aula teórica sobre o uso do R e sua aplicação biológica utilizando exemplos dentro de três níveis de organização biológica (organismos, populações e comunidades). Também faremos uma introdução rápida ao R, apresentando os principais conceitos.
 
