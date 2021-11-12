@@ -40,8 +40,8 @@ library(foodweb)
 
 <img src="jaguar_foodweb.gif">
 
-References: 
+REFERÊNCIAS:
 
-[Palmeira FBL, 2015.](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf) Co-occurrence, trophic interactions and potential distribution of jaguar (Panthera onca) in the Amazon biome (Doctoral Thesis, Universidade de São Paulo). Published in Portuguese.
+[Palmeira FBL, 2015.](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf) Coocorrência, interações tróficas e distribuição potencial da onça-pintada (Panthera onca) no bioma Amazônia. Tese de Doutorado, Universidade de São Paulo (USP).
 
 [Perdomo G, 2012.](https://cran.r-project.org/web/packages/foodweb/foodweb.pdf) Package 'foodweb'.
