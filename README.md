@@ -1,4 +1,4 @@
-# [Semana da Biologia Marinha e do Gerenciamento Costeiro - 2021, UNESP - IB CLP, São Vicente, SP](https://www.even3.com.br/xviisbmgc)
+# [XVII Semana da Biologia Marinha e do Gerenciamento Costeiro - 2021, UNESP - IB CLP, São Vicente, SP](https://www.even3.com.br/xviisbmgc)
 <img src="unesp_logos.png" align="right" width = "250px"/>
 
 ## Workshop "Fundamentos básicos do R: aplicação na biologia"
