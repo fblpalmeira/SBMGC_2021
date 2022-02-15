@@ -29,7 +29,7 @@ EXERCÍCIO: O objetivo da nossa aula prática é construir esse gráfico 3D que 
 
 - [Planilha `.csv`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.csv)
 
-<img src="jaguar_foodweb.gif">
+<img src="https://github.com/fblpalmeira/SBMGC_2021/blob/main/img/jaguar_foodweb.gif">
 
 ## Instalação
 
