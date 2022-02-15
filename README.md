@@ -17,11 +17,11 @@ PÚBLICO-ALVO: Estudantes de graduação, pós-graduação e profissionais inter
 
 MATERIAIS:
 
-- [Ementa do curso `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/1_Ementa_Workshop_R_SBMGC_2021.pdf)
+- [Ementa do curso `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/doc/1_Ementa_Workshop_R_SBMGC_2021.pdf)
 
-- [Tutorial do RStudio Cloud `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/2_Tutorial_RStudioCloud_Pronta_Cientista_2021.pdf)
+- [Tutorial do RStudio Cloud `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/doc/2_Tutorial_RStudioCloud_Pronta_Cientista_2021.pdf)
 
-- [Aula teórica  `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/3_Aula_Teorica_Modelos.pdf)
+- [Aula teórica  `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/doc/3_Aula_Teorica_Modelos.pdf)
 
 EXERCÍCIO: O objetivo da nossa aula prática é construir esse gráfico 3D que representa a rede de interações ecológica da onça-pintada (Panthera onca) com dados de literatura compilados por [Palmeira 2015](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf).
 
